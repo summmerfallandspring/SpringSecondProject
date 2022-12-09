@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="walab" uuid="5d49ccc3-5c3e-4d34-8003-854b74e316ef">
+    <data-source source="LOCAL" name="walab" uuid="dedd7683-f34d-4e9d-a8af-1cc9bed9e0b1">
       <driver-ref>mariadb</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mariadb://walab@handong.edu:3306</jdbc-url>
+      <jdbc-url>jdbc:mariadb://walab.handong.edu:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
